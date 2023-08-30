@@ -1,6 +1,6 @@
 @media screen and (max-width: 1400px) {
   #profile {
-    height: 83vh;
+    height: 50vh;
     margin-bottom: 6rem;
   }
   .about-containers {
@@ -79,7 +79,7 @@
     font-size: 1.25rem;
   }
   .logo {
-    font-size: 1.5rem;
+    font-size: 0.5rem;
   }
   .nav-links {
     flex-direction: column;
