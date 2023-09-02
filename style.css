@@ -199,6 +199,7 @@ section {
   align-self: center;
   text-align: -webkit-left;
   margin-top: 100px;
+  max-width: 800px
 }
 
 .section__text p {
@@ -332,6 +333,11 @@ section {
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
+}
+
+.details-container:hover{
+    border: rgb(53, 53, 53) 0.1rem solid;
+    border-color: rgb(32, 159, 1);
 }
 
 .section-container {
