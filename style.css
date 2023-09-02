@@ -187,6 +187,12 @@ section {
   box-shadow: 0 0 25px 0 rgba(0,0,0,.8);
 }
 
+.section__pic-container:hover{
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2);
+}
+
 .section__text {
   align-self: center;
   text-align: -webkit-left;
@@ -385,6 +391,12 @@ article .icon {
   border-radius: 2rem;
   width: 90%;
   height: 90%;
+}
+
+.project-img:hover{
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
 }
 
 .project-title {
